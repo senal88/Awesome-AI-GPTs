@@ -260,3 +260,6 @@ API 可用于方便的使 GPTs 实现 Actions
 ## 致谢
 * [EmbraceAGI](https://github.com/EmbraceAGI) 感谢 EmbraceAGI 社区对本项目的支持!
 
+
+## Guia em Português
+Consulte [docs/claude_mcp_setup_pt.md](docs/claude_mcp_setup_pt.md) para um guia de setup inicial do agente Claude integrado ao MCP.
